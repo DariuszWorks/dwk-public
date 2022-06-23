@@ -1,0 +1,30 @@
+### Job Search Criteria (alphabetical order)
+
+- benefits
+- bonus
+- career and development goals
+- commute
+- culture fit
+- data analytics
+- engineering
+- exciting job
+- gut feeling
+- importance of a long-term goal
+- influence to drive new things
+- leadership/coaching/mentoring
+- leadership/line management responsibilities
+- learning a lot of new things
+- learning culture
+- my potential manager
+- no regular office trips
+- no single area of work, i.e., just FE work, just BE work, etc.
+- people
+- psychological safety
+- Python
+- reflect on the interview
+- remote-first
+- research and development
+- risk-free start-up
+- salary
+- the need to work out of the UK
+- work/life balance
